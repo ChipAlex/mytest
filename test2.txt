@@ -1,2 +1,8 @@
 $ git clone https://github.com/libgit2/libgit2
 "dfdddfdf" 
+
+<<<<<<< HEAD
+Добавлено из ветки master
+=======
+$ git checkout testing
+>>>>>>> testing
